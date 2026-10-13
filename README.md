@@ -118,7 +118,7 @@
     />
     <img
       src="https://skillicons.dev/icons?i=cpp%2Cpython%2Cjava%2Cbash%2Clinux%2Carch%2Cgit%2Cgithub%2Cvscode%2Ccmake&theme=dark&perline=5"
-      alt="C++, Python, Java, Bash, Linux, Arch Linux, Git, GitHub, VS Code and CMake"
+      alt="C++, Python, Java, Bash, Linux, Arch Linux, Minecraft, Git, GitHub, VS Code and CMake"
     />
   </picture>
 </p>
