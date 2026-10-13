@@ -69,55 +69,34 @@
 <h2 align="center">About Me</h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
-  <tr>
-    <td width="65%" valign="middle">
-
-<p>
-  I'm a Computer Engineering student passionate about software development,
-  systems programming, and understanding how technology works under the hood.
-</p>
-
-<p>
-  I enjoy learning by building projects, exploring new technologies, and
-  continuously improving my programming skills.
-</p>
-
+<tr>
+<td width="65%" valign="middle">
+<p>I'm a Computer Engineering student passionate about software development, systems programming, and understanding how technology works under the hood.</p>
+<p>I enjoy learning by building projects, exploring new technologies, and continuously improving my programming skills.</p>
 <ul>
-  <li><strong>Languages:</strong> C++, Python, Java</li>
-  <li><strong>Interests:</strong> Systems programming, cybersecurity, software architecture</li>
-  <li><strong>Operating System:</strong> Arch Linux</li>
-  <li><strong>Tools:</strong> Git, GitHub, VS Code, CMake</li>
-  <li><strong>Currently exploring:</strong> Low-level development and cybersecurity</li>
-  <li><strong>Philosophy:</strong> Understand the fundamentals. Build things. Keep improving.</li>
+<li><strong>Languages:</strong> C++, Python, Java</li>
+<li><strong>Interests:</strong> Systems programming, cybersecurity, software architecture</li>
+<li><strong>Operating System:</strong> Arch Linux</li>
+<li><strong>Tools:</strong> Git, GitHub, VS Code, CMake</li>
+<li><strong>Currently exploring:</strong> Low-level development and cybersecurity</li>
+<li><strong>Philosophy:</strong> Understand the fundamentals. Build things. Keep improving.</li>
 </ul>
-
-<p>
-  My goal is to become a well-rounded software engineer by developing
-  practical projects, learning from the community, and contributing to
-  interesting open-source initiatives.
-</p>
-
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <a href="https://github.com/Marck497">
-        <img
-          src="https://github.com/Marck497.png"
-          width="220"
-          alt="Marck497 GitHub avatar"
-        />
-      </a>
-      <br />
-      <br />
-      <strong>Curiosity drives innovation.</strong>
-      <br />
-      <sub>One commit at a time.</sub>
-    </td>
-  </tr>
+<p>My goal is to become a well-rounded software engineer by developing practical projects, learning from the community, and contributing to interesting open-source initiatives.</p>
+</td>
+<td width="35%" align="center" valign="middle">
+<a href="https://github.com/Marck497">
+<img src="https://github.com/Marck497.png" width="220" alt="Marck497 GitHub avatar" />
+</a>
+<br />
+<br />
+<strong>Curiosity drives innovation.</strong>
+<br />
+<sub>One commit at a time.</sub>
+</td>
+</tr>
 </table>
 
 <br />
-
----
 
 <!-- ============================ TECH STACK ======================= -->
 
