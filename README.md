@@ -110,15 +110,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=cpp,python,java,bash,linux,arch,git,github,vscode,cmake&theme=dark&perline=5"
+      srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cjava%2Cbash%2Clinux%2Carch%2Cgit%2Cgithub%2Cvscode%2Ccmake&theme=dark&perline=5"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=cpp,python,java,bash,linux,arch,git,github,vscode,cmake&theme=light&perline=5"
+      srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cjava%2Cbash%2Clinux%2Carch%2Cgit%2Cgithub%2Cvscode%2Ccmake&theme=light&perline=5"
     />
     <img
-      src="https://skillicons.dev/icons?i=cpp,python,java,bash,linux,arch,git,github,vscode,cmake&theme=dark&perline=5"
-      alt="C++, Python, Java, Bash, Linux, Arch Linux, Git, GitHub, VS Code, and CMake"
+      src="https://skillicons.dev/icons?i=cpp%2Cpython%2Cjava%2Cbash%2Clinux%2Carch%2Cgit%2Cgithub%2Cvscode%2Ccmake&theme=dark&perline=5"
+      alt="C++, Python, Java, Bash, Linux, Arch Linux, Git, GitHub, VS Code and CMake"
     />
   </picture>
 </p>
