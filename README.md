@@ -7,21 +7,11 @@
 <!-- ====================== RESPONSIVE HEADER ====================== -->
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:8B5CF6&height=230&section=header"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:93C5FD,100:8B5CF6&height=230&section=header"
-    />
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:8B5CF6&height=230&section=header"
-      width="100%"
-      alt="Blue and purple gradient header"
-    />
-  </picture>
+  <img
+    src="./marck497-boot-sequence.gif"
+    width="100%"
+    alt="Marck497 system boot sequence ending in ASCII WELCOME"
+  />
 </p>
 
 <!-- ============================ INTRO ============================ -->
