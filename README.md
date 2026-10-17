@@ -45,9 +45,9 @@
     />
   </a>
   <img
-    src="https://komarev.com/ghpvc/?username=Marck497&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
+  src="https://komarev.com/ghpvc/?username=Marck497&amp;style=for-the-badge&amp;color=8B5CF6&amp;label=PROFILE+VIEWS"
+  alt="Profile views"
+/>
 </p>
 
 <br />
