@@ -44,10 +44,10 @@
       alt="Profile repository stars"
     />
   </a>
-  <img
-    src="https://komarev.com/ghpvc/?username=Marck497&amp;style=for-the-badge&amp;color=8B5CF6&amp;label=PROFILE%20VIEWS"
-    alt="GitHub profile views"
-  />
+ <img
+  src="https://komarev.com/ghpvc/?username=Marck497&amp;style=for-the-badge&amp;color=8B5CF6&amp;label=PROFILE+VIEWS"
+  alt="Profile views"
+/>
 </p>
 
 <br />
