@@ -225,7 +225,7 @@
 <p align="center">
   Always open to discussing programming, technology, open source,
   and interesting projects.
-</p>
+<p align="center">
   </a>
   <a href="mailto:marcospairola@gmail.com">
     <img
